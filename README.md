@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
