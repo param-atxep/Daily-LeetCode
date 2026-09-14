@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/param-atxep/Daily-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
