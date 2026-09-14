@@ -32,4 +32,12 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/param-atxep/Daily-LeetCode/tree/master/0835-image-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/param-atxep/Daily-LeetCode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/param-atxep/Daily-LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
