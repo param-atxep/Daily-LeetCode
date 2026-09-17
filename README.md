@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0509-fibonacci-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/param-atxep/Daily-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/param-atxep/Daily-LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
@@ -31,11 +32,13 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/param-atxep/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0835-image-overlap](https://github.com/param-atxep/Daily-LeetCode/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -73,6 +76,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/param-atxep/Daily-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -98,4 +102,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/param-atxep/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
