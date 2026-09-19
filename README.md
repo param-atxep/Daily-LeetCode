@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/param-atxep/Daily-LeetCode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/param-atxep/Daily-LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/param-atxep/Daily-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Dynamic Programming
 |  |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/param-atxep/Daily-LeetCode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/param-atxep/Daily-LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Greedy
 |  |
 | ------- |
