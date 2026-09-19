@@ -32,6 +32,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/param-atxep/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/param-atxep/Daily-LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/param-atxep/Daily-LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/param-atxep/Daily-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0835-image-overlap](https://github.com/param-atxep/Daily-LeetCode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/param-atxep/Daily-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/param-atxep/Daily-LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -51,6 +53,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/param-atxep/Daily-LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/param-atxep/Daily-LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/param-atxep/Daily-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/param-atxep/Daily-LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
@@ -81,6 +84,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/param-atxep/Daily-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/param-atxep/Daily-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Tree
@@ -100,6 +104,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/param-atxep/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/param-atxep/Daily-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/param-atxep/Daily-LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Heap (Priority Queue)
