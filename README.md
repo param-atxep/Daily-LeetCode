@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/param-atxep/Daily-LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/param-atxep/Daily-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0268-missing-number) |
@@ -21,6 +22,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/param-atxep/Daily-LeetCode/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/param-atxep/Daily-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/param-atxep/Daily-LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
