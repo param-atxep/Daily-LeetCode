@@ -13,6 +13,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/param-atxep/Daily-LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/param-atxep/Daily-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/param-atxep/Daily-LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0835-image-overlap](https://github.com/param-atxep/Daily-LeetCode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/param-atxep/Daily-LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/param-atxep/Daily-LeetCode/tree/master/0002-add-two-numbers) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
