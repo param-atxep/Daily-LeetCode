@@ -45,6 +45,7 @@
 | [0485-max-consecutive-ones](https://github.com/param-atxep/Daily-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0835-image-overlap](https://github.com/param-atxep/Daily-LeetCode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/param-atxep/Daily-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/param-atxep/Daily-LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
@@ -56,6 +57,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/param-atxep/Daily-LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/param-atxep/Daily-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/param-atxep/Daily-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/param-atxep/Daily-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -115,6 +118,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/param-atxep/Daily-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/param-atxep/Daily-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/param-atxep/Daily-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +139,7 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/param-atxep/Daily-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Design
 |  |
 | ------- |
