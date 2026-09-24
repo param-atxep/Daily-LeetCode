@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/param-atxep/Daily-LeetCode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/param-atxep/Daily-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/param-atxep/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/param-atxep/Daily-LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/param-atxep/Daily-LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/param-atxep/Daily-LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/param-atxep/Daily-LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -122,6 +124,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/param-atxep/Daily-LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/param-atxep/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/param-atxep/Daily-LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -160,4 +163,12 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/param-atxep/Daily-LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/param-atxep/Daily-LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
