@@ -37,6 +37,7 @@
 | [0001-two-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/param-atxep/Daily-LeetCode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/param-atxep/Daily-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/param-atxep/Daily-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/param-atxep/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/param-atxep/Daily-LeetCode/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/param-atxep/Daily-LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/param-atxep/Daily-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/param-atxep/Daily-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/param-atxep/Daily-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/param-atxep/Daily-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/param-atxep/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Tree
 |  |
@@ -125,6 +128,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/param-atxep/Daily-LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/param-atxep/Daily-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/param-atxep/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/param-atxep/Daily-LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -171,4 +175,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/param-atxep/Daily-LeetCode/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/param-atxep/Daily-LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/param-atxep/Daily-LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
