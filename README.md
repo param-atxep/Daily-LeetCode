@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/param-atxep/Daily-LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/param-atxep/Daily-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0509-fibonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/param-atxep/Daily-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/param-atxep/Daily-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -40,6 +41,7 @@
 | [0053-maximum-subarray](https://github.com/param-atxep/Daily-LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/param-atxep/Daily-LeetCode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/param-atxep/Daily-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/param-atxep/Daily-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/param-atxep/Daily-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/param-atxep/Daily-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/param-atxep/Daily-LeetCode/tree/master/0268-missing-number) |
