@@ -18,6 +18,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/param-atxep/Daily-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/param-atxep/Daily-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/param-atxep/Daily-LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/param-atxep/Daily-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -83,6 +84,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/param-atxep/Daily-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/param-atxep/Daily-LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/param-atxep/Daily-LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/param-atxep/Daily-LeetCode/tree/master/0125-valid-palindrome) |
@@ -93,6 +95,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/param-atxep/Daily-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/param-atxep/Daily-LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/param-atxep/Daily-LeetCode/tree/master/0125-valid-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/param-atxep/Daily-LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -235,4 +238,8 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/param-atxep/Daily-LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/param-atxep/Daily-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/param-atxep/Daily-LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/param-atxep/Daily-LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
